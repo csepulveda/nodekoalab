@@ -1,0 +1,22 @@
+{
+  "name": "nodekoalab",
+  "version": "1.0.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Ok...: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://csepulvedab@bitbucket.org/csepulvedab/nodekoalab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/csepulvedab/nodekoalab#readme",
+  "dependencies": {
+    "koa": "^1.2.4",
+    "koa-route": "^2.4.2",
+    "mongoose": "^4.6.8",
+    "pm2": "^2.1.5"
+  }
+}
